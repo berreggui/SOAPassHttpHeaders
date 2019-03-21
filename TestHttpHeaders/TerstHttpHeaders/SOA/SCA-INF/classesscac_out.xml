@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Faults>
+   <Fault>
+      <severity>error</severity>
+      <loc>/ns:composite/ns:reference[@name='SOAPReference']</loc>
+      <line>33</line>
+      <col>84</col>
+      <file>D:\Travail\KAOS\TestHttpHeaders\TerstHttpHeaders\SOA\composite.xml</file>
+      <name>D:\Travail\KAOS\TestHttpHeaders\TerstHttpHeaders\SOA\composite.xml</name>
+      <fix/>
+      <msg>La référence SOAPReference n'existe pas en tant que cible de wire</msg>
+   </Fault>
+</Faults>
